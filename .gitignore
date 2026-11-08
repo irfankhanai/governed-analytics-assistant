@@ -1,0 +1,16 @@
+.venv/
+.uv-cache/
+__pycache__/
+.pytest_cache/
+*.sqlite3*
+.env
+runtime/
+
+node_modules/
+venv/
+env/
+dist/
+build/
+*.egg-info/
+.env.*
+!.env.example

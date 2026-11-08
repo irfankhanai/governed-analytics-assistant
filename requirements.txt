@@ -1,0 +1,7 @@
+streamlit>=1.40,<2
+pandas>=2.2,<4
+openpyxl>=3.1,<4
+PyYAML>=6,<7
+pytest>=8,<10
+jsonschema>=4.23,<5
+referencing>=0.35,<1

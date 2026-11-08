@@ -1,0 +1,17 @@
+version: '1.0.0'
+weights:
+  product: 20
+  market: 20
+  kpi: 35
+  purpose: 5
+  governance: 10
+  freshness: 5
+  usage: 5
+thresholds:
+  reuse_score: 75
+  duplicate_jaccard: 0.75
+  high_audience: 1000
+  low_monthly_users: 10
+  usage_months: 3
+  minimum_kpi_coverage: 1.0
+  retirement_audience_limit: 100
