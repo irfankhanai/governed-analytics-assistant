@@ -134,4 +134,4 @@ Enterprise integration would use read-only Power BI/Tableau inventory, usage and
 
 ## Development Team:
 1. Muhammad Irfan Haider Khan | MSc Data Science | Tampere University
-2. Saif Ur Rehman | MSc Data Analytics | Turku University 
+2. Saif Ur Rehman | MDP ICT Data Analytics | University Of Turku 
