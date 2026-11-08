@@ -131,3 +131,7 @@ Format references: [Microsoft PBIR report format](https://learn.microsoft.com/en
 No credentials are needed, and no external AI calls are made. `.env.example` intentionally contains no required settings. Future optional language understanding should produce proposals only, retain deterministic decisions, and require explicit permission before sending data to a paid service.
 
 Enterprise integration would use read-only Power BI/Tableau inventory, usage and lineage APIs, tenant authentication/RBAC, governed KPI sources and a controlled change-management integration. Validate API scope, ownership and retention policy before connecting. Replace demo reviewer identities with authenticated roles and append-only audited storage. Actual BI lifecycle execution must remain a separate approved process.
+
+## Development Team:
+1. Muhammad Irfan Haider Khan | MSc Data Science | Tampere University
+2. Saif Ur Rehman | MSc Data Analytics | Turku University 
